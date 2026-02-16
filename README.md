@@ -21,15 +21,41 @@ Public datasets from [DropThe.org](https://dropthe.org) — a data platform trac
 - [S&P 500 turnover analysis](https://dropthe.org/money/sp500-company-turnover-lifespan-data-3/)
 - [Apple acquisitions analysis](https://dropthe.org/tech/apple-acquisitions-pattern-ai-strategy/)
 
+### Global Universities Database
+**27,099 universities** worldwide with country, city, founding year, type, and student count.
+- `datasets/universities/universities.csv` (2.1 MB)
+- [Universities that produced the most tech CEOs](https://dropthe.org/tech/universities-most-tech-ceos-ivy-league-premium/)
+
+### Streaming Availability by Service and Country
+**1,938 aggregated records** from 685,896 streaming records across 20+ services in 50+ countries.
+- `datasets/streaming/streaming-by-service-country.csv` (80 KB)
+- [Streaming statistics](https://dropthe.org/data/statistics/streaming/)
+
 ### Coming Soon
-- **Streaming Catalog** — 685K streaming records across platforms
-- **University Database** — 27K+ universities worldwide
-- **People Database** — Public figures (sample)
 - **Movie Ratings** — 209K+ movies with ratings and metadata
+- **People Database** — Public figures (sample)
+- **Series Database** — 48K+ TV series
 
 ## About the Data
 
 All data is sourced from authoritative APIs (CoinGecko, TMDb, Wikidata, IGDB) and enriched by DropThe's entity resolution pipeline. See our [methodology](https://dropthe.org/good/methodology/) for details.
+
+## Entity Coverage
+
+| Entity Type | Count |
+|-------------|-------|
+| People | 1,500,000+ |
+| Movies | 209,000+ |
+| Games | 50,000+ |
+| Series | 48,000+ |
+| Universities | 27,000+ |
+| Companies | 19,000+ |
+| Cryptocurrencies | 16,000+ |
+| Apps | 7,000+ |
+| Books | 5,700+ |
+| **Total** | **1,830,000+** |
+
+Connected by **2.18 million knowledge graph links**.
 
 ## Usage
 
