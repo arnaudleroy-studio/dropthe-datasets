@@ -31,6 +31,12 @@ Public datasets from [DropThe.org](https://dropthe.org) — a data platform trac
 - `datasets/streaming/streaming-by-service-country.csv` (80 KB)
 - [Streaming statistics](https://dropthe.org/data/statistics/streaming/)
 
+### Movie Ratings Database
+**154,965 movies** with ratings, vote counts, release dates, languages, genres, and runtime.
+- `datasets/movies/movies-ratings.csv` (13 MB)
+- [Movie ratings analysis](https://dropthe.org/culture/movie-ratings-209000-films-75-years-data/)
+- [Feelgood score analysis](https://dropthe.org/culture/feelgood-score-191000-movies-data/)
+
 ### Coming Soon
 - **Movie Ratings** — 209K+ movies with ratings and metadata
 - **People Database** — Public figures (sample)
